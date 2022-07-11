@@ -37,10 +37,10 @@ margin-right: 10px;
 font-weight: bold;
 }
 .background{
-height: 500px;
-background-image: url(.);
+height: 2000px;
+background-image: url(./imagem/103147.jpg);
 background-repeat: no-repeat;
-background-size: contain;
+background-size:contain;
 }
 .titulo{
     font-weight: bold;
